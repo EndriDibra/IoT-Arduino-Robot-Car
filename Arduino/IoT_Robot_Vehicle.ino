@@ -76,7 +76,6 @@ void loop() {
 
     randomTurn();
     delay(200);
-    
   }
   
   else {
@@ -110,7 +109,6 @@ void loop() {
     
     // Sending the data over the serial port
     sendSerialData(doc);
-
   }
   
   // Waiting for 2 seconds before reading again
