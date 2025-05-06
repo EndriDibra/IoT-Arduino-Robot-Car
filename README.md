@@ -19,3 +19,7 @@ Electronic Parts:
 .1X Gas sensor
 .1x Ultrasonic sensor
 .1x HC-05 Bluetooth module
+
+Software:
+.Python
+.C++ Arduino
