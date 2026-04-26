@@ -1,4 +1,4 @@
-# IoT Smart Robot Car with Arduino, Sensors, Flask Server, and Machine Learning
+# IoT Smart Robot Car: with Arduino, Sensors, Flask Server, and Machine Learning
 
 ## Author
 **Endri Dibra**
