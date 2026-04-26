@@ -234,5 +234,3 @@ This project reflects my passion for building systems that combine:
 - Real-world engineering + Automation  
 
 from concept design to final implementation.
-
-**Author: Endri Dibra**
