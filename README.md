@@ -27,10 +27,11 @@ The result is a smart robotic platform capable of environmental data collection,
 
 ---
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/7823a4ed-3d98-45d6-8a73-916117982578" controls>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/7823a4ed-3d98-45d6-8a73-916117982578" width="450" controls>
+    <p>Your browser does not support the video tag.</p>
   </video>
-</p>
+</div>
 
 ---
 
