@@ -22,13 +22,13 @@ The system combines:
 The result is a smart robotic platform capable of environmental data collection, movement control, obstacle avoidance, and fire/smoke anomaly detection.
 
 <p align="center">
-  <img src="https://github.com/EndriDibra/IoT-Arduino-Robot-Car/blob/main/3D_Images/IoT_Robot_Car.png" width="350" height="450">
+  <img src="https://github.com/EndriDibra/IoT-Arduino-Robot-Car/blob/main/3D_Images/IoT_Robot_Car.png">
 </p>
 
 ---
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/7823a4ed-3d98-45d6-8a73-916117982578" width="450" controls>
+  <video src="https://github.com/user-attachments/assets/7823a4ed-3d98-45d6-8a73-916117982578" controls>
     <p>Your browser does not support the video tag.</p>
   </video>
 </div>
