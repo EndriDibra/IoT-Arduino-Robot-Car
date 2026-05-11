@@ -21,6 +21,14 @@ The system combines:
 
 The result is a smart robotic platform capable of environmental data collection, movement control, obstacle avoidance, and fire/smoke anomaly detection.
 
+<p align="center">
+  <img src="https://github.com/EndriDibra/IoT-Arduino-Robot-Car/blob/main/3D_Images/IoT_Robot_Car.png" width="350">
+</p>
+
+---
+
+
+
 ---
 
 ## Core Features
