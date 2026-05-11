@@ -27,7 +27,10 @@ The result is a smart robotic platform capable of environmental data collection,
 
 ---
 
-https://github.com/user-attachments/assets/7823a4ed-3d98-45d6-8a73-916117982578
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/7823a4ed-3d98-45d6-8a73-916117982578" width="400" controls>
+  </video>
+</p>
 
 ---
 
